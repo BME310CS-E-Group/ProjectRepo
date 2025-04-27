@@ -34,3 +34,18 @@ Bu proje, Trendyol Süper ligdeki futbolcuların maç içi performans verilerini
 	•	Farklı liglerin ve sezonların da sisteme eklenmesi.
 	•	Kullanıcıların futbolcular arası karşılaştırmalar yapabilmesi.
 	•	Performans tahminlerinin görsel grafiklerle desteklenmesi.
+
+### Proje Ekibi
+
+	1.	Proje Yöneticisi ve Backend Geliştirici - Ahmet Bora Eryazgan
+        •	Proje yönetimi, zaman çizelgesi, ekip içi iletişim.
+        •	Django ile backend geliştirme ve API tasarımı.
+	2.	Veri Bilimci - Ali Osman Arda Özdemir
+        •	Veri toplama ve temizleme, veri işleme.
+        •	Performans skor metriği oluşturulması.
+	3.	Makine Öğrenmesi Mühendisi - Furkan Pehlivanoğlu
+        •	Derin öğrenme modelinin geliştirilmesi ve eğitilmesi.
+        •	Modelin değerlendirilmesi ve optimizasyonu.
+	4.	Web Geliştirici - Furkan Yazgan
+        •	Frontend geliştirme ve kullanıcı arayüzü tasarımı.
+        •	API entegrasyonu ve sistem entegrasyonu.
