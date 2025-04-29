@@ -11,12 +11,12 @@
   - Yapılanlar: Master Plan Dosyası proje yöneticisi tarafından oluşturuldu. (#2)
 
 - **Issue #3**: Veri Kaynaklarının Belirlenmesi ve Veri Toplama
-  - Durum: Beklemede
+  - Durum: Tamamlandı
   - Atanan: Furkan Yazgan
   - Yapılacaklar: Trendyol Süper Lig futbolcularının geçmiş maç performans verilerini sağlanabilecek güvenilir veri kaynakları (Whoscored, Sofascore vb.) belirlenecek. (#3)
 
 - **Issue #4**: Web Scraping Scriptinin Yazılması
-  - Durum: Beklemede
+  - Durum: Tamamlandı
   - Atanan: Furkan Yazgan
   - Yapılacaklar: Belirlenen kaynaklardan futbolcu verilerini çekmek için Python tabanlı web scraping scripti yazılacak. (#4)
 
