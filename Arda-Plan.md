@@ -12,3 +12,15 @@ Veriyi temizledikten sonra modele daha iyi sinyal verecek yeni özellikler üret
 Örneğin, sadece oynanan maç sayısına bakmak yerine maç başına ortalama gol gibi yeni bir özellik ekledim.
 Ya da yaş ve tecrübe süresinden "performans potansiyeli" gibi tahmini bir değişken oluşturdum.
 Buradaki amacım, modelin daha iyi öğrenebilmesi için anlamlı ve etkili değişkenler yaratmaktı. Bu süreçte hem temel istatistiklere (ortalama, oran gibi) hem de domain bilgisine (futbol bilgisinden gelen sezgilere) dayandım.
+
+Issue #7: Performans Skoru Metriğinin Tasarlanması
+Bu kısımda futbolcuların genel performansını ölçen bir skor sistemi tasarladım.
+Basitçe anlatmak gerekirse:
+
+Gol, asist gibi pozitif katkıları artıran,
+Kart, faul gibi negatif etkileri düşüren
+bir ağırlıklı puan formülü oluşturdum.
+Örneğin, bir oyuncunun skoru şöyle hesaplanıyor:
+performans skoru = (goller × 4) + (asistler × 3) - (kırmızı kartlar × 5) gibi.
+
+Bu formülü tasarlarken futbolda neyin daha önemli olduğunu düşünerek ağırlıkları verdim. Yani sadece çok gol atan değil, genel katkısı yüksek olan futbolcular daha iyi skorlar alıyor.
