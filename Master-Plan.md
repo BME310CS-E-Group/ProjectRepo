@@ -36,16 +36,16 @@
   - Yapılacaklar: Futbolcu performansını gösterecek ağırlıklı skor formülü oluşturulacak. (#7)
 
 - **Issue #8**: Derin Öğrenme Modelinin Tasarlanması
-  - Durum: Devam Ediyor
+  - Durum: Tamamlandı
   - Atanan: Furkan Pehlivanoğlu
   - Yapılacaklar: Derin öğrenme modelinin (ör. MLP veya LSTM) katmanları ve aktivasyon fonksiyonları belirlenecek. (#8)
 
 - **Issue #9**: Modelin Eğitilmesi
-  - Durum: Devam Ediyor
+  - Durum: Tamamlandı
   - Atanan: Furkan Pehlivanoğlu
   - Yapılacaklar: İlk model eğitimi gerçekleştirilecek ve doğruluk/kayıp metrikleri izlenecek. (#9)
 
 - **Issue #10**: Ekip Toplantısı
-  - Durum: Beklemede
+  - Durum: Tamamlandı
   - Atanan: Herkes
   - Yapılacaklar: Proje ilerleyişinin değerlendirilmesi, karşılaşılan zorlukların tartışılması ve bir sonraki adımların planlanması için ekip toplantısı düzenlenecek. (#10)
