@@ -49,3 +49,13 @@
   - Durum: Tamamlandı
   - Atanan: Herkes
   - Yapılacaklar: Proje ilerleyişinin değerlendirilmesi, karşılaşılan zorlukların tartışılması ve bir sonraki adımların planlanması için ekip toplantısı düzenlenecek. (#10)
+
+- **Issue #11: Proje Bitişi ve Dağıtım Süreci
+  - Durum: Tamamlandı
+  - Atanan: Herkes
+  - Yapılacaklar:
+    • Model sonuçlarının son kontrolü
+    • Kodların ve dokümantasyonun düzenlenmesi
+    • Gerekli görsellerin/raporların hazırlanması
+    • Uygulamanın/sonuçların deploy edilmesi veya sunulması
+    • Proje sunumu veya teslimi için gerekli içeriklerin hazırlanması
