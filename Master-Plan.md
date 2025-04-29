@@ -21,17 +21,17 @@
   - Yapılacaklar: Belirlenen kaynaklardan futbolcu verilerini çekmek için Python tabanlı web scraping scripti yazılacak. (#4)
 
 - **Issue #5**: Ham Verinin Temizlenmesi ve Ön İşlenmesi
-  - Durum: Beklemede
+  - Durum: Tamamlandı
   - Atanan: Ali Osman Arda Özdemir
   - Yapılacaklar: Eksik veri temizliği, tutarsızlıkların giderilmesi ve veri formatlama işlemleri yapılacak. (#5)
 
 - **Issue #6**: Özellik Mühendisliği (Feature Engineering)
-  - Durum: Beklemede
+  - Durum: Tamamlandı
   - Atanan: Ali Osman Arda Özdemir
   - Yapılacaklar: Model için önemli istatistikler belirlenecek ve veri setine yeni özellikler eklenecek. (#6)
 
 - **Issue #7**: Performans Skoru Metriğinin Tasarlanması
-  - Durum: Beklemede
+  - Durum: Tamamlandı
   - Atanan: Ali Osman Arda Özdemir
   - Yapılacaklar: Futbolcu performansını gösterecek ağırlıklı skor formülü oluşturulacak. (#7)
 
